@@ -126,9 +126,12 @@ Poster presentation:  2018 Dickinson College All Science Symposium (Carlisle, PA
 **C Kanaskie**, Y Liang*, CL Moore*, C Loeffler. Hemlock woolly adelgid abundance and hemlock health in hilltop vs. valley sites
 -Poster presentation: 2017 Pennsylvania Academy of Science (Wilkes Barre, PA)
 
-##Papers in Preparation:
+## Papers in Preparation:
+
 AJ McDonnell, CL Moore, S Schuette, CT Martine. in prep. Population genomics and conservation of *Erigenia bulbosa* (Apiaceae), an edge-of-range species in Pennsylvania. To be submitted to International Journal of Plant Sciences.
+
 CL Moore, AJ McDonnell, S Schuette, CT Martine. in prep. Lepidopteran granivory reduces seed counts in a rare species of riparian scour prairies. To be submitted to Natural Areas Journal.
+
 C Loeffler, C Jones, CL Moore,… Hemlock health and hemlock woolly adelgid abundance in high and low elevation stands in the Cumberland Valley. To be submitted to Castanea.
 
 ## Grants:
