@@ -75,22 +75,23 @@ Penfield, PA
 
 ## Research Skills:
 
-- Skilled in identifying plants of Pennsylvania and use of dichotomous keys
-- Practiced in forestry skills including use of DBH tape, percent cover, prism counts, stem counts, crown ratio, crown density, as well as establishment of research plots
-- DNA extraction, quantification, and gel electrophoresis, as well as general knowledge of sequencing techniques and platforms
-- Experienced in working in all weather conditions and transporting equipment to the field
-- Knowledge of mark and recapture protocol, including PIT tagging 
-- Macroinvertebrate identification
-- Basic field techniques including Sherman trapping, Burlese trapping, and specimen preparation
+Skilled in identifying plants of Pennsylvania and use of dichotomous keys
+Practiced in forestry skills including use of DBH tape, percent cover, prism counts, stem counts, crown ratio, crown density, as well as establishment of research plots
+DNA extraction, quantification, and gel electrophoresis, as well as general knowledge of sequencing techniques and platforms
+Experienced in working in all weather conditions and transporting equipment to the field
+Knowledge of mark and recapture protocol, including PIT tagging 
+Macroinvertebrate identification
+Basic field techniques including Sherman trapping, Burlese trapping, and specimen preparation
  
 ## Computational skills:
-- ArcGIS
-- R Studio 
-- Unix/Linux BASH
+ArcGIS
+R Studio 
+Unix/Linux BASH
+Basic html
 
 ## Qualifications:
-- NOLS Wilderness First Aid Certified
-- CPR/First Aid Certified 
+NOLS Wilderness First Aid Certified
+CPR/First Aid Certified 
 
 ## Presentations:
 presenting author(s) bolded
@@ -136,47 +137,51 @@ C Loeffler, C Jones, CL Moore,… Hemlock health and hemlock woolly adelgid abun
 
 ## Grants:
 
-- Bill Dahl Graduate Student Research Award from the Botanical Society of America, 2019, $1.5K
-- Earl Core Student Award from Southern Appalachian Botanical Society of America, 2019, $1.2K
-- Carnegie Museum of Natural History Buker Travel Award, 2019, $250
+Bill Dahl Graduate Student Research Award from the Botanical Society of America, 2019, $1.5K
+Earl Core Student Award from Southern Appalachian Botanical Society of America, 2019, $1.2K
+Carnegie Museum of Natural History Buker Travel Award, 2019, $250
 
 ## Awards and Honors:
 
-- Bucknell University Graduate Student Fellowship ($11,525/year) and Tuition Waiver, Fall 2018- Spring 2020
-- Bucknell University Manning Intern for Botanical Science Summer Funding, 2018 ($4.5K) and 2019 ($5K)
-- Summer Funding from Pennsylvania Department of Conservation and Natural Resources Wild Resources Conservation Program Grant, 2018 and 2019 ($3.5K/year)
-- Dickinson College Spencer Fullerton Baird Biology Prize, awarded to two graduating biology majors for academic excellence and drive in scientific pursuits 
-- Dickinson College Dean’s List: Spring 2016, Fall 2016, Spring 2017, Fall 2018, Spring 2018
-- Dickinson College Paul Biebel Plant Identification Award, 2017
-- Dickinson College 94th Class of the Wheel and Chain - Senior Women’s Honor Society 
-- Raven’s Claw Society Scholarship, awarded based on academic achievement, financial need, leadership and campus engagement, 2017-2018  
+Bucknell University Graduate Student Fellowship ($11,525/year) and Tuition Waiver, Fall 2018- Spring 2020
+Bucknell University Manning Intern for Botanical Science Summer Funding, 2018 ($4.5K) and 2019 ($5K)
+Summer Funding from Pennsylvania Department of Conservation and Natural Resources Wild Resources Conservation Program Grant, 2018 and 2019 ($3.5K/year)
+Dickinson College Spencer Fullerton Baird Biology Prize, awarded to two graduating biology majors for academic excellence and drive in scientific pursuits 
+Dickinson College Dean’s List: Spring 2016, Fall 2016, Spring 2017, Fall 2018, Spring 2018
+Dickinson College Paul Biebel Plant Identification Award, 2017
+Dickinson College 94th Class of the Wheel and Chain - Senior Women’s Honor Society 
+Raven’s Claw Society Scholarship, awarded based on academic achievement, financial need, leadership and campus engagement, 2017-2018  
 
 ## Teaching and Mentoring Experience
  
-- Teaching Assistant, 
+Teaching Assistant, 
 Principals of Ecology and Evolution BIOL 208
 Bucknell University, Spring 2020
-- Teaching Assistant, 
+
+Teaching Assistant, 
 Field Botany BIOL 351
 Bucknell University, Fall 2019
-- Undergraduate Research Supervisor
+
+Undergraduate Research Supervisor
 Bucknell University: Martine Lab, Spring 2019
-- Teaching Assistant, 
+
+Teaching Assistant, 
 Natural History BIOL 110
 Dickinson College, Fall 2017
-- Resident Advisor
+
+Resident Advisor
 Dickinson College, Fall 2016-Spring 2018
  
 
 ## Professional Memberships:
  
-- Botanical Society of America (BSA)
-- American Society for Plant Taxonomist (ASPT)
-- Torrey Botanical Society
-- Society of Herbarium Curators
-- Southern Appalachian Botanical Society
-- Natural Areas Association
-- Society for Integrative and Comparative Biology (SICB) 
-- Ecological Society of America 
+Botanical Society of America (BSA)
+American Society for Plant Taxonomist (ASPT)
+Torrey Botanical Society
+Society of Herbarium Curators
+Southern Appalachian Botanical Society
+Natural Areas Association
+Society for Integrative and Comparative Biology (SICB) 
+Ecological Society of America 
  
 
