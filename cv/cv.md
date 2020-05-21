@@ -1,8 +1,15 @@
-#Cheyenne L. Moore
+---
+layout: default
+title: CV
+---
+
+# CV
+
+## Cheyenne L. Moore
 814-761-4878 | clm044@bucknell.edu  
 1 Dent Drive Lewisburg, PA 17837
 
-##Education:
+## Education:
 Bucknell University, Lewisburg, PA
 Master of Science, Biology  |  May 2020
 Thesis title: Conservation genetics of Baptisia australis var. australis: understanding gene flow in imperiled Pennsylvania populations 
@@ -16,7 +23,8 @@ Thesis title: Plant communities in eastern hemlock (Tsuga canadensis) stands imp
 Departmental honors, magna cum laude
 GPA 3.80
 
-##Research Interests:
+## Research Interests:
+
 -Plant and forest ecology, plant and ecosystem response to climate change, disturbance ecology in relation to invasive species and white tail deer
 -Plant populations and ecosystem interactions, forest dynamics, invasive plants, impacts of deer and other forest disturbance
 -Rare plant conservation and population genetics 
@@ -36,7 +44,8 @@ Dickinson College and the State Museum of Pennsylvania
 Carlisle and Harrisburg, PA
 
 
-##Professional Experience:
+## Professional Experience:
+
 Plant Collections Assistant, 2018-2019
 Bucknell University
 -Responsible for managing the Wayne E. Manning Herbarium including mounting and filing specimens, as well as transitioning to APG IV. Also responsible for assisting with greenhouse care and maintenance. 
@@ -64,7 +73,8 @@ Northern Research Station
 -Assisted in conducting forestry assessments of forest inventory plots in north-western and central Pennsylvania
 Penfield, PA
 
-##Research Skills:
+## Research Skills:
+
 -Skilled in identifying plants of Pennsylvania and use of dichotomous keys
 -Practiced in forestry skills including use of DBH tape, percent cover, prism counts, stem counts, crown ratio, crown density, as well as establishment of research plots
 -DNA extraction, quantification, and gel electrophoresis, as well as general knowledge of sequencing techniques and platforms
@@ -73,7 +83,7 @@ Penfield, PA
 -Macroinvertebrate identification
 -Basic field techniques including Sherman trapping, Burlese trapping, and specimen preparation
  
-##Computational skills:
+## Computational skills:
 -ArcGIS
 -R Studio 
 -Unix/Linux BASH
@@ -81,7 +91,7 @@ Qualifications:
 -NOLS Wilderness First Aid Certified
 -CPR/First Aid Certified 
 
-##Presentations:
+## Presentations:
 presenting author(s) bolded
 
 **CL Moore**, AJ McDonnell, S Schuette, CT Martine. Prairies in Pennsylvania? Conservation of state-threatened Baptisia australis var. australis 
@@ -120,12 +130,14 @@ AJ McDonnell, CL Moore, S Schuette, CT Martine. in prep. Population genomics and
 CL Moore, AJ McDonnell, S Schuette, CT Martine. in prep. Lepidopteran granivory reduces seed counts in a rare species of riparian scour prairies. To be submitted to Natural Areas Journal.
 C Loeffler, C Jones, CL Moore,… Hemlock health and hemlock woolly adelgid abundance in high and low elevation stands in the Cumberland Valley. To be submitted to Castanea.
 
-##Grants:
+## Grants:
+
 -Bill Dahl Graduate Student Research Award from the Botanical Society of America, 2019, $1.5K
 -Earl Core Student Award from Southern Appalachian Botanical Society of America, 2019, $1.2K
 -Carnegie Museum of Natural History Buker Travel Award, 2019, $250
 
-##Awards and Honors:
+## Awards and Honors:
+
 -Bucknell University Graduate Student Fellowship ($11,525/year) and Tuition Waiver, Fall 2018- Spring 2020
 -Bucknell University Manning Intern for Botanical Science Summer Funding, 2018 ($4.5K) and 2019 ($5K)
 -Summer Funding from Pennsylvania Department of Conservation and Natural Resources Wild Resources Conservation Program Grant, 2018 and 2019 ($3.5K/year)
@@ -135,7 +147,7 @@ C Loeffler, C Jones, CL Moore,… Hemlock health and hemlock woolly adelgid abun
 -Dickinson College 94th Class of the Wheel and Chain - Senior Women’s Honor Society 
 -Raven’s Claw Society Scholarship, awarded based on academic achievement, financial need, leadership and campus engagement, 2017-2018  
 
-##Teaching and Mentoring Experience
+## Teaching and Mentoring Experience
  
 -Teaching Assistant, 
 Principals of Ecology and Evolution BIOL 208
@@ -152,7 +164,7 @@ Dickinson College, Fall 2017
 Dickinson College, Fall 2016-Spring 2018
  
 
-##Professional Memberships:
+## Professional Memberships:
  
 -Botanical Society of America (BSA)
 -American Society for Plant Taxonomist (ASPT)
