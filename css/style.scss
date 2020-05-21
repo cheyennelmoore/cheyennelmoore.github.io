@@ -13,7 +13,7 @@ $header-bg-color-secondary: #e67e22;
 // Text
 $section-headings-color: #D35400;
 $body-text-color: #606c71 !default;
-$body-link-color: #1e6bb8 !default;
+$body-link-color: #98FB98 !default;
 $blockquote-text-color: #819198 !default;
 
 // Code
@@ -24,5 +24,7 @@ $code-text-color: #567482 !default;
 $border-color: #dce6f0 !default;
 $table-border-color: #e9ebec !default;
 $hr-border-color: #eff0f1 !default;
+
+
 
 @import "{{ site.theme }}";
