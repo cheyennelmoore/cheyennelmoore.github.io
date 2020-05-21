@@ -25,12 +25,12 @@ GPA 3.80
 
 ## Research Interests:
 
--Plant and forest ecology, plant and ecosystem response to climate change, disturbance ecology in relation to invasive species and white tail deer
--Plant populations and ecosystem interactions, forest dynamics, invasive plants, impacts of deer and other forest disturbance
--Rare plant conservation and population genetics 
--Natural history and use of collections 
+- Plant and forest ecology, plant and ecosystem response to climate change, disturbance ecology in relation to invasive species and white tail deer
+- Plant populations and ecosystem interactions, forest dynamics, invasive plants, impacts of deer and other forest disturbance
+- Rare plant conservation and population genetics 
+- Natural history and use of collections 
 
-##Research Experience:
+## Research Experience:
 M.S. Thesis Research- 2018-2020: Conservation genetics of Baptisia australis var. australis: understanding gene flow in imperiled Pennsylvania populations 
 Bucknell University- Martine Lab
 Lewisburg, PA
@@ -48,48 +48,49 @@ Carlisle and Harrisburg, PA
 
 Plant Collections Assistant, 2018-2019
 Bucknell University
--Responsible for managing the Wayne E. Manning Herbarium including mounting and filing specimens, as well as transitioning to APG IV. Also responsible for assisting with greenhouse care and maintenance. 
+- Responsible for managing the Wayne E. Manning Herbarium including mounting and filing specimens, as well as transitioning to APG IV. Also responsible for assisting with greenhouse care and maintenance. 
 Lewisburg, PA
 
 Watershed Coordinator, 2015-2018
 Alliance for Aquatic Resource Monitoring 
--Roles included water quality testing, data cleaning, mapping, working community members and organizing outreach events 
+- Roles included water quality testing, data cleaning, mapping, working community members and organizing outreach events 
 Carlisle, PA
 
 Botanist/Field Crew Lead, Summer 2017
 Powdermill Nature Reserve, Carnegie Natural History Museum
--Led a crew of 2 in completion of vegetation and seedling surveys, including plant identification and data entry
+- Led a crew of 2 in completion of vegetation and seedling surveys, including plant identification and data entry
 Rector, PA
 
 Botanist/Field Technician, Summer 2016
 United States Department of Agriculture Forest Service 
 Northern Research Station at Irvine
--Conducted vegetation surveys in the Kinzua Quality Deer Cooperative with a focus on deer herbivory impacts
+- Conducted vegetation surveys in the Kinzua Quality Deer Cooperative with a focus on deer herbivory impacts
 Kane, PA
 
 Forest Inventory and Analysis Intern, Summer 2015
 United States Department of Agriculture Forest Service
 Northern Research Station
--Assisted in conducting forestry assessments of forest inventory plots in north-western and central Pennsylvania
+- Assisted in conducting forestry assessments of forest inventory plots in north-western and central Pennsylvania
 Penfield, PA
 
 ## Research Skills:
 
--Skilled in identifying plants of Pennsylvania and use of dichotomous keys
--Practiced in forestry skills including use of DBH tape, percent cover, prism counts, stem counts, crown ratio, crown density, as well as establishment of research plots
--DNA extraction, quantification, and gel electrophoresis, as well as general knowledge of sequencing techniques and platforms
--Experienced in working in all weather conditions and transporting equipment to the field
--Knowledge of mark and recapture protocol, including PIT tagging 
--Macroinvertebrate identification
--Basic field techniques including Sherman trapping, Burlese trapping, and specimen preparation
+- Skilled in identifying plants of Pennsylvania and use of dichotomous keys
+- Practiced in forestry skills including use of DBH tape, percent cover, prism counts, stem counts, crown ratio, crown density, as well as establishment of research plots
+- DNA extraction, quantification, and gel electrophoresis, as well as general knowledge of sequencing techniques and platforms
+- Experienced in working in all weather conditions and transporting equipment to the field
+- Knowledge of mark and recapture protocol, including PIT tagging 
+- Macroinvertebrate identification
+- Basic field techniques including Sherman trapping, Burlese trapping, and specimen preparation
  
 ## Computational skills:
--ArcGIS
--R Studio 
--Unix/Linux BASH
-Qualifications:
--NOLS Wilderness First Aid Certified
--CPR/First Aid Certified 
+- ArcGIS
+- R Studio 
+- Unix/Linux BASH
+
+## Qualifications:
+- NOLS Wilderness First Aid Certified
+- CPR/First Aid Certified 
 
 ## Presentations:
 presenting author(s) bolded
@@ -132,47 +133,47 @@ C Loeffler, C Jones, CL Moore,… Hemlock health and hemlock woolly adelgid abun
 
 ## Grants:
 
--Bill Dahl Graduate Student Research Award from the Botanical Society of America, 2019, $1.5K
--Earl Core Student Award from Southern Appalachian Botanical Society of America, 2019, $1.2K
--Carnegie Museum of Natural History Buker Travel Award, 2019, $250
+- Bill Dahl Graduate Student Research Award from the Botanical Society of America, 2019, $1.5K
+- Earl Core Student Award from Southern Appalachian Botanical Society of America, 2019, $1.2K
+- Carnegie Museum of Natural History Buker Travel Award, 2019, $250
 
 ## Awards and Honors:
 
--Bucknell University Graduate Student Fellowship ($11,525/year) and Tuition Waiver, Fall 2018- Spring 2020
--Bucknell University Manning Intern for Botanical Science Summer Funding, 2018 ($4.5K) and 2019 ($5K)
--Summer Funding from Pennsylvania Department of Conservation and Natural Resources Wild Resources Conservation Program Grant, 2018 and 2019 ($3.5K/year)
--Dickinson College Spencer Fullerton Baird Biology Prize, awarded to two graduating biology majors for academic excellence and drive in scientific pursuits 
--Dickinson College Dean’s List: Spring 2016, Fall 2016, Spring 2017, Fall 2018, Spring 2018
--Dickinson College Paul Biebel Plant Identification Award, 2017
--Dickinson College 94th Class of the Wheel and Chain - Senior Women’s Honor Society 
--Raven’s Claw Society Scholarship, awarded based on academic achievement, financial need, leadership and campus engagement, 2017-2018  
+- Bucknell University Graduate Student Fellowship ($11,525/year) and Tuition Waiver, Fall 2018- Spring 2020
+- Bucknell University Manning Intern for Botanical Science Summer Funding, 2018 ($4.5K) and 2019 ($5K)
+- Summer Funding from Pennsylvania Department of Conservation and Natural Resources Wild Resources Conservation Program Grant, 2018 and 2019 ($3.5K/year)
+- Dickinson College Spencer Fullerton Baird Biology Prize, awarded to two graduating biology majors for academic excellence and drive in scientific pursuits 
+- Dickinson College Dean’s List: Spring 2016, Fall 2016, Spring 2017, Fall 2018, Spring 2018
+- Dickinson College Paul Biebel Plant Identification Award, 2017
+- Dickinson College 94th Class of the Wheel and Chain - Senior Women’s Honor Society 
+- Raven’s Claw Society Scholarship, awarded based on academic achievement, financial need, leadership and campus engagement, 2017-2018  
 
 ## Teaching and Mentoring Experience
  
--Teaching Assistant, 
+- Teaching Assistant, 
 Principals of Ecology and Evolution BIOL 208
 Bucknell University, Spring 2020
--Teaching Assistant, 
+- Teaching Assistant, 
 Field Botany BIOL 351
 Bucknell University, Fall 2019
--Undergraduate Research Supervisor
+- Undergraduate Research Supervisor
 Bucknell University: Martine Lab, Spring 2019
--Teaching Assistant, 
+- Teaching Assistant, 
 Natural History BIOL 110
 Dickinson College, Fall 2017
--Resident Advisor
+- Resident Advisor
 Dickinson College, Fall 2016-Spring 2018
  
 
 ## Professional Memberships:
  
--Botanical Society of America (BSA)
--American Society for Plant Taxonomist (ASPT)
--Torrey Botanical Society
--Society of Herbarium Curators
--Southern Appalachian Botanical Society
--Natural Areas Association
--Society for Integrative and Comparative Biology (SICB) 
--Ecological Society of America 
+- Botanical Society of America (BSA)
+- American Society for Plant Taxonomist (ASPT)
+- Torrey Botanical Society
+- Society of Herbarium Curators
+- Southern Appalachian Botanical Society
+- Natural Areas Association
+- Society for Integrative and Comparative Biology (SICB) 
+- Ecological Society of America 
  
 
