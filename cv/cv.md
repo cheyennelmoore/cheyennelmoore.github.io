@@ -12,13 +12,13 @@ title: CV
 ## Education:
 Bucknell University, Lewisburg, PA
 Master of Science, Biology  |  May 2020
-Thesis title: Conservation genetics of Baptisia australis var. australis: understanding gene flow in imperiled Pennsylvania populations 
+Thesis title: Conservation genetics of *Baptisia australis* var. *australis*: understanding gene flow in imperiled Pennsylvania populations 
 Advisor: Dr. Christopher Martine
 GPA 4.0
 
 Dickinson College, Carlisle, PA
 Bachelor of Science, Biology  |  May 2018
-Thesis title: Plant communities in eastern hemlock (Tsuga canadensis) stands impacted by hemlock woolly adelgid (Adelges tsugae)
+Thesis title: Plant communities in eastern hemlock (*Tsuga canadensis*) stands impacted by hemlock woolly adelgid (*Adelges tsugae*)
 	Advisor: Dr. Carol Loeffler
 Departmental honors, magna cum laude
 GPA 3.80
@@ -100,23 +100,23 @@ presenting author(s) bolded
 **CL Moore**, AJ McDonnell, S Schuette, CT Martine. Assessing the conservation status of *Baptisia australis* var. *australis* in Pennsylvania through natural history and metapopulation *Invited symposium paper 
 -Oral presentation: Botany 2019 (Tucson, AZ)
 
-**AJ McDonnell, CL Moore**2, S Schuette, CT Martine*1. Population genomics and conservation of Erigenia bulbosa (Apiaceae) in Pennsylvania
+**AJ McDonnell, CL Moore**2, S Schuette, **CT Martine**1. Population genomics and conservation of Erigenia bulbosa (Apiaceae) in Pennsylvania
 -Oral presentation: 1Botany 2019 (Tucson, AZ), 22019 Susquehanna River Symposium (Lewisburg, PA), 12020 Society for Integrative and Comparative Biology Meeting (Austin, TX)
 
-**J Davis**, CL Moore, AJ McDonnell, S Schuette, CT Martine. What lies in the Dark: Cutting open Baptisia australis fruits in search of seed predators
+**J Davis**, CL Moore, AJ McDonnell, S Schuette, CT Martine. What lies in the Dark: Cutting open *Baptisia australis* fruits in search of seed predators
 -Poster presentation: Botany 2019 (Tucson, AZ), 2019 Susquehanna River Symposium (Lewisburg, PA)
 
-**CL Moore**, S Schuette, AJ McDonnell, CT Martine. Status of Baptisia australis (Fabaceae) in Pennsylvania and the potential impact of escaped cultivated genotypes: Preliminary observations 
+**CL Moore**, S Schuette, AJ McDonnell, CT Martine. Status of *Baptisia australis* (Fabaceae) in Pennsylvania and the potential impact of escaped cultivated genotypes: Preliminary observations 
 -Poster presentation:  presented at Botany 2018 (Rochester, MN), 2018 Three Rivers Evolution Event (Pittsburgh, PA), 2018 Susquehanna River Symposium (Lewisburg, PA), Pennsylvania Botany 2018 (State College, PA) 2nd place for graduate student posters, 2019 Kalman Symposium at Bucknell University (Lewisburg, PA)
 
-**CL Moore**, C Loeffler.  Plant communities in eastern hemlock (Tsuga canadensis) stands impacted by hemlock woolly adelgid (Adelges tsugae) 
+**CL Moore**, C Loeffler.  Plant communities in eastern hemlock (*Tsuga canadensis*) stands impacted by hemlock woolly adelgid (Adelges tsugae) 
 Poster presentation:  2018 Dickinson College All Science Symposium (Carlisle, PA), 2018 Lehigh Valley Ecology and Evolution Symposium (Cedar Crest, PA), and 2018 Society of Women Environmental Professionals (Harrisburg, PA) 2nd Place, Botany 2018 (Rochester, MN), and PA Botany 2018 (State College, PA)
 -Oral presentation: Dickinson Honors Biology defense presentation (Carlisle, PA)
 
 **A Ling**, CL Moore, N Gabuzda, C Loeffler. Hemlock woolly adelgid abundance and tannin concentration in high vs. low sites 
 -Poster presentation: 2018 Dickinson College All Science Symposium (Carlisle, PA)
 
-**L Friedman**, CL Moore, HE Wingert, C Loeffler, W Meshaka. Comparison of Red-spotted Newt (Notophthalmus viridescens) Diet in Three Sites in Southern* Pennsylvania 
+**L Friedman**, CL Moore, HE Wingert, C Loeffler, W Meshaka. Comparison of Red-spotted Newt (*Notophthalmus viridescens*) Diet in Three Sites in Southern* Pennsylvania 
 -Poster presentation: 2018 Society of Women Environmental Professionals (Harrisburg, PA)
 
 **CL Moore**, HE Wingert, C Loeffler, W Meshaka. Comparison of Red Spotted Newt (Notophthalmus viridescens) Diet in Southern Pennsylvania 
@@ -126,7 +126,7 @@ Poster presentation:  2018 Dickinson College All Science Symposium (Carlisle, PA
 -Poster presentation: 2017 Pennsylvania Academy of Science (Wilkes Barre, PA)
 
 ##Papers in Preparation:
-AJ McDonnell, CL Moore, S Schuette, CT Martine. in prep. Population genomics and conservation of Erigenia bulbosa (Apiaceae), an edge-of-range species in Pennsylvania. To be submitted to International Journal of Plant Sciences.
+AJ McDonnell, CL Moore, S Schuette, CT Martine. in prep. Population genomics and conservation of *Erigenia bulbosa* (Apiaceae), an edge-of-range species in Pennsylvania. To be submitted to International Journal of Plant Sciences.
 CL Moore, AJ McDonnell, S Schuette, CT Martine. in prep. Lepidopteran granivory reduces seed counts in a rare species of riparian scour prairies. To be submitted to Natural Areas Journal.
 C Loeffler, C Jones, CL Moore,… Hemlock health and hemlock woolly adelgid abundance in high and low elevation stands in the Cumberland Valley. To be submitted to Castanea.
 
