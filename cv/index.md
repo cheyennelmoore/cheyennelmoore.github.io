@@ -10,6 +10,7 @@ title: CV
 1 Dent Drive Lewisburg, PA 17837
 
 ## Education:
+
 Bucknell University, Lewisburg, PA
 Master of Science, Biology  |  May 2020
 Thesis title: Conservation genetics of *Baptisia australis* var. *australis*: understanding gene flow in imperiled Pennsylvania populations 
@@ -31,6 +32,7 @@ GPA 3.80
 - Natural history and use of collections 
 
 ## Research Experience:
+
 M.S. Thesis Research- 2018-2020: Conservation genetics of Baptisia australis var. australis: understanding gene flow in imperiled Pennsylvania populations 
 Bucknell University- Martine Lab
 Lewisburg, PA
@@ -96,13 +98,13 @@ CPR/First Aid Certified
 ## Presentations:
 presenting author(s) bolded
 
-**CL Moore**, AJ McDonnell, S Schuette, CT Martine. Prairies in Pennsylvania? Conservation of state-threatened Baptisia australis var. australis 
+**CL Moore**, AJ McDonnell, S Schuette, CT Martine. Prairies in Pennsylvania? Conservation of state-threatened *Baptisia australis* var. *australis* 
 -Poster presentation: Ecological Society of America (ESA) Meeting 2019 (Louisville, KY), 2019 Northeastern Ecology Conference (Lacawac, PA), 2019 Susquehanna River Symposium (Lewisburg, PA), 2019 Natural Areas Conference (Pittsburgh, PA) 2nd Place, 2020 Society for Integrative and Comparative Biology Meeting (Austin, TX)
 
 **CL Moore**, AJ McDonnell, S Schuette, CT Martine. Assessing the conservation status of *Baptisia australis* var. *australis* in Pennsylvania through natural history and metapopulation *Invited symposium paper 
 -Oral presentation: Botany 2019 (Tucson, AZ)
 
-**AJ McDonnell, CL Moore**2, S Schuette, **CT Martine**1. Population genomics and conservation of Erigenia bulbosa (Apiaceae) in Pennsylvania
+**AJ McDonnell, CL Moore**2, S Schuette, **CT Martine**1. Population genomics and conservation of *Erigenia bulbosa* (Apiaceae) in Pennsylvania
 -Oral presentation: 1Botany 2019 (Tucson, AZ), 22019 Susquehanna River Symposium (Lewisburg, PA), 12020 Society for Integrative and Comparative Biology Meeting (Austin, TX)
 
 **J Davis**, CL Moore, AJ McDonnell, S Schuette, CT Martine. What lies in the Dark: Cutting open *Baptisia australis* fruits in search of seed predators
@@ -121,7 +123,7 @@ Poster presentation:  2018 Dickinson College All Science Symposium (Carlisle, PA
 **L Friedman**, CL Moore, HE Wingert, C Loeffler, W Meshaka. Comparison of Red-spotted Newt (*Notophthalmus viridescens*) Diet in Three Sites in Southern* Pennsylvania 
 -Poster presentation: 2018 Society of Women Environmental Professionals (Harrisburg, PA)
 
-**CL Moore**, HE Wingert, C Loeffler, W Meshaka. Comparison of Red Spotted Newt (Notophthalmus viridescens) Diet in Southern Pennsylvania 
+**CL Moore**, HE Wingert, C Loeffler, W Meshaka. Comparison of Red Spotted Newt (*Notophthalmus viridescens*) Diet in Southern Pennsylvania 
 -Poster presentation: presented at 2017 Dickinson College All Science Symposium (Carlisle, PA), 2017 Lehigh Valley Ecology and Evolution Symposium (PA), and 2017 Society of Women Environmental Professionals (Harrisburg, PA) 
 
 **C Kanaskie**, Y Liang*, CL Moore*, C Loeffler. Hemlock woolly adelgid abundance and hemlock health in hilltop vs. valley sites
@@ -138,18 +140,27 @@ C Loeffler, C Jones, CL Moore,… Hemlock health and hemlock woolly adelgid abun
 ## Grants:
 
 Bill Dahl Graduate Student Research Award from the Botanical Society of America, 2019, $1.5K
+
 Earl Core Student Award from Southern Appalachian Botanical Society of America, 2019, $1.2K
+
 Carnegie Museum of Natural History Buker Travel Award, 2019, $250
 
 ## Awards and Honors:
 
 Bucknell University Graduate Student Fellowship ($11,525/year) and Tuition Waiver, Fall 2018- Spring 2020
+
 Bucknell University Manning Intern for Botanical Science Summer Funding, 2018 ($4.5K) and 2019 ($5K)
+
 Summer Funding from Pennsylvania Department of Conservation and Natural Resources Wild Resources Conservation Program Grant, 2018 and 2019 ($3.5K/year)
+
 Dickinson College Spencer Fullerton Baird Biology Prize, awarded to two graduating biology majors for academic excellence and drive in scientific pursuits 
+
 Dickinson College Dean’s List: Spring 2016, Fall 2016, Spring 2017, Fall 2018, Spring 2018
+
 Dickinson College Paul Biebel Plant Identification Award, 2017
+
 Dickinson College 94th Class of the Wheel and Chain - Senior Women’s Honor Society 
+
 Raven’s Claw Society Scholarship, awarded based on academic achievement, financial need, leadership and campus engagement, 2017-2018  
 
 ## Teaching and Mentoring Experience
@@ -175,13 +186,13 @@ Dickinson College, Fall 2016-Spring 2018
 
 ## Professional Memberships:
  
-Botanical Society of America (BSA)
-American Society for Plant Taxonomist (ASPT)
-Torrey Botanical Society
-Society of Herbarium Curators
-Southern Appalachian Botanical Society
-Natural Areas Association
-Society for Integrative and Comparative Biology (SICB) 
-Ecological Society of America 
+Botanical Society of America (BSA) |
+American Society for Plant Taxonomist (ASPT) |
+Torrey Botanical Society |
+Society of Herbarium Curators |
+Southern Appalachian Botanical Society |
+Natural Areas Association |
+Society for Integrative and Comparative Biology (SICB) |
+Ecological Society of America |
  
 
