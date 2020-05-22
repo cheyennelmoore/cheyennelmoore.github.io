@@ -86,13 +86,13 @@ Macroinvertebrate identification
 Basic field techniques including Sherman trapping, Burlese trapping, and specimen preparation
  
 ## Computational skills:
-ArcGIS
-R Studio 
-Unix/Linux BASH
+ArcGIS |
+R Studio |
+Unix/Linux BASH |
 Basic html
 
 ## Qualifications:
-NOLS Wilderness First Aid Certified
+NOLS Wilderness First Aid Certified |
 CPR/First Aid Certified 
 
 ## Presentations:
