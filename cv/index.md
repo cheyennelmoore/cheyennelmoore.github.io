@@ -50,29 +50,29 @@ Carlisle and Harrisburg, PA
 
 Plant Collections Assistant, 2018-2019
 Bucknell University
-- Responsible for managing the Wayne E. Manning Herbarium including mounting and filing specimens, as well as transitioning to APG IV. Also responsible for assisting with greenhouse care and maintenance. 
+-Responsible for managing the Wayne E. Manning Herbarium including mounting and filing specimens, as well as transitioning to APG IV. Also responsible for assisting with greenhouse care and maintenance. 
 Lewisburg, PA
 
 Watershed Coordinator, 2015-2018
 Alliance for Aquatic Resource Monitoring 
-- Roles included water quality testing, data cleaning, mapping, working community members and organizing outreach events 
+-Roles included water quality testing, data cleaning, mapping, working community members and organizing outreach events 
 Carlisle, PA
 
 Botanist/Field Crew Lead, Summer 2017
 Powdermill Nature Reserve, Carnegie Natural History Museum
-- Led a crew of 2 in completion of vegetation and seedling surveys, including plant identification and data entry
+-Led a crew of 2 in completion of vegetation and seedling surveys, including plant identification and data entry
 Rector, PA
 
 Botanist/Field Technician, Summer 2016
 United States Department of Agriculture Forest Service 
 Northern Research Station at Irvine
-- Conducted vegetation surveys in the Kinzua Quality Deer Cooperative with a focus on deer herbivory impacts
+-Conducted vegetation surveys in the Kinzua Quality Deer Cooperative with a focus on deer herbivory impacts
 Kane, PA
 
 Forest Inventory and Analysis Intern, Summer 2015
 United States Department of Agriculture Forest Service
 Northern Research Station
-- Assisted in conducting forestry assessments of forest inventory plots in north-western and central Pennsylvania
+-Assisted in conducting forestry assessments of forest inventory plots in north-western and central Pennsylvania
 Penfield, PA
 
 ## Research Skills:
