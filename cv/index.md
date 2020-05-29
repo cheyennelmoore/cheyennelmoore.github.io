@@ -4,7 +4,7 @@ title: Cheyenne Moore
 ---
 
 # CV
-![pic](https://cheyennelmoore.github.io/images/Dson_grad.jpg)
+![pic](https://cheyennelmoore.github.io/images/Dson_grad.jpg){:height="250px"}
 ## Cheyenne L. Moore
 814-761-4878 | clm044@bucknell.edu  
 1 Dent Drive Lewisburg, PA 17837
